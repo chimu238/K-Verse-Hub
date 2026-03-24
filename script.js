@@ -1,5 +1,5 @@
   // -------- GROUPS PAGE --------
-  fetch("../groups.json")
+  fetch("groups.json")
     .then(res => res.json())
     .then(groups => {
 
@@ -32,7 +32,7 @@
 
 // fetch JSON file
 
-fetch("../youtube_official.json")
+fetch("youtube_official.json")
   .then(res => res.json())
   .then(data => {
 
@@ -134,7 +134,7 @@ const groupEmojis = {
   "KiiiKiii": "⭐",
   "WJSN": "🌌"
 };
-fetch("../news.json")
+fetch("news.json")
   .then(res => res.json())
   .then(data => {
 
