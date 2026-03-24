@@ -1,0 +1,593 @@
+{
+  "groups": [
+
+    {
+      "name": "BTS",
+      "channel": "https://www.youtube.com/@BTS",
+
+      "topSongs": [
+        {
+          "title": "Dyanamite",
+          "url":"https://youtu.be/gdZLi9oWNZg?si=9KQs-uuh3JIiR5Tr"
+        },
+        {
+          "title": "My universe",
+          "url": "https://youtu.be/3YqPKLZF_WU?si=-wg7B3rfOqtxuGGQ"
+        },
+        {
+          "title": "Butter",
+          "url": "https://youtu.be/WMweEpGlu_U?si=EX4aq7S6H0iK_XWK"
+        },
+        {
+          "title": "DNA",
+          "url": "https://youtu.be/MBdVXkSdhwU?si=gku_R5zSgegKb1jV"
+        },
+        {
+          "title": "Boy With Luv",
+          "url": "https://youtu.be/XsX3ATc3FbA?si=IPJ8vjvu_jakxEhh"
+        }
+      ]
+    },
+
+    {
+      "name": "BLACKPINK",
+      "channel": "https://www.youtube.com/@BLACKPINK",
+
+      "topSongs": [
+        {
+          "title": "DDU-DU DDU-DU",
+          "url": "https://youtu.be/IHNzOHi8sJs?si=PdwPA08uDJUWNG9N"
+        },
+        {
+          "title": "Kill This Love",
+          "url": "https://youtu.be/2S24-y0Ij3Y?si=exDGhqvOkacMzYOE"
+        },
+        {
+          "title": "How You Like That",
+          "url": "https://youtu.be/ioNng23DkIM?si=A3xaMBAMkuI0hQcB"
+        },
+        {
+          "title": "Pink Venom",
+          "url": "https://youtu.be/gQlMMD8auMs?si=wlB8NfqYPteMzEIP"
+        },
+        {
+          "title": "Shut Down",
+          "url": "https://youtu.be/POe9SOEKotk?si=Na0S79tWlMqTiLQF"
+        }
+      ]
+    },
+
+    {
+      "name": "SEVENTEEN",
+      "channel": "https://www.youtube.com/@pledis17",
+
+      "topSongs": [
+        {
+          "title": "Super (FML)",
+          "url": "https://youtu.be/-GQg25oP0S4?si=Cc7QfrOxJOLZxYnz"
+        },
+        {
+          "title": "HOT (Face the Sun)",
+          "url": "https://youtu.be/2ejTprWF-B0?si=Sf3Qx0wbC-HILCbr"
+        },
+        {
+          "title": "Don't Wanna Cry (Al1)",
+          "url": "https://youtu.be/zEkg4GBQumc?si=1_YcJ26VQTSJfcpa"
+        },
+        {
+          "title": "Left & Right",
+          "url": "https://youtu.be/HdZdxocqzq4?si=tHq1KhyypfyVpjio"
+        },
+        {
+          "title": "Rock with you (Attacca)",
+          "url": "https://youtu.be/WpuatuzSDK4?si=gya9Qj1BRiau4PZf"
+        }
+      ]
+    },
+
+    {
+      "name": "Stray Kids",
+      "channel": "https://www.youtube.com/@StrayKids",
+
+      "topSongs": [
+        {
+          "title": "God's Menu",
+          "url": "https://youtu.be/nkeh7Bx3GzY?si=yuFjSXOjuNnsL0tc"
+        },
+        {
+          "title": "MANIAC",
+          "url": "https://youtu.be/Ip28E1XItvY?si=hMGz_RrOrx4ZsV0Y"
+        },
+        {
+          "title": "Chk Chk Boom",
+          "url": "https://youtu.be/T17AR8cVmto?si=TcS1DOmlTW3QsLVW"
+        },
+        {
+          "title": "S-Class",
+          "url": "https://youtu.be/Dd6Jxk5Kgws?si=Hs8oVwKrbDQKDm0y"
+        },
+        {
+          "title": "Thunderous",
+          "url": "https://youtu.be/Koi6AZyT_HU?si=k2uY8qTMjhCy_dMD"
+        }
+      ]
+    },
+
+    {
+      "name": "TWICE",
+      "channel": "https://www.youtube.com/@TWICE",
+
+      "topSongs": [
+        {
+          "title": "The Feels",
+          "url": "https://youtu.be/9j6_KM-uzfY?si=pjpIe4hMVmaMd8ej"
+        },
+        {
+          "title": "FANCY",
+          "url": "https://youtu.be/iRw4kL1CMI8?si=BAoignT6H6B1D52L"
+        },
+        {
+          "title": "Feel Special",
+          "url": "https://youtu.be/yChy1KRIWAY?si=7LOy2y_X5sYJ6KEs"
+        },
+        {
+          "title": "I CAN'T STOP ME",
+          "url": "https://youtu.be/pMQjg5b-3gE?si=BJ-eJm2MqU8YWl05"
+        },
+        {
+          "title": "What is Love?",
+          "url": "https://youtu.be/WhHEQ-W3x5Y?si=4crqKL8x6SRxHR3w"
+        }
+      ]
+    },
+
+    {
+      "name": "aespa",
+      "channel": "https://www.youtube.com/@aespa",
+
+      "topSongs": [
+        {
+          "title": "Whiplash",
+          "url": "https://youtu.be/4hAdcenQWqU?si=Enhd7nNpZNgPLjxu"
+        },
+        {
+          "title": "Supernova",
+          "url": "https://youtu.be/phuiiNCxRMg?si=bT-K1vd31ZhNLlEj"
+        },
+        {
+          "title": "Drama",
+          "url": "https://youtu.be/3CvJKTChsl4?si=e7SxEWDiNk3xZpfJ"
+        },
+        {
+          "title": "Armageddon",
+          "url": "https://youtu.be/yS0nP3YlbOM?si=k6R7UOKIhpBL1Rtd"
+        },
+        {
+          "title": "Rich Man",
+          "url": "https://youtu.be/5oQVTnq-UKk?si=SI44WCvHhjgIMmHo"
+        }
+      ]
+    },
+
+    {
+      "name": "ENHYPEN",
+      "channel": "https://www.youtube.com/@ENHYPENOFFICIAL",
+
+      "topSongs": [
+        {
+          "title": "Bite Me",
+          "url": "https://youtu.be/wXFLzODIdUI?si=04-zQep2oxsZteqX"
+        },
+        {
+          "title": "FEVER",
+          "url": "https://youtu.be/X7d6Dt17yHk?si=W9eYS7-HbLjSh9XK"
+        },
+        {
+          "title": "Drunk-Dazed",
+          "url": "https://youtu.be/Fc7-Oe0tj5k?si=RQOj-307pf24H8Dl"
+        },
+        {
+          "title": " Polaroid Love",
+          "url": "https://youtu.be/8Jw1_QdRR88?si=RTuHEcIE9M5PlhgF"
+        },
+        {
+          "title": "Sweet Venom",
+          "url": "https://youtu.be/qedonJosQ3g?si=O1OE-SNkOhmwdt-R"
+        }
+      ]
+    },
+
+    {
+      "name": "TOMORROW X TOGETHER",
+      "channel": "https://www.youtube.com/@TXT_bighit",
+
+      "topSongs": [
+        {
+          "title": "Blue Hour",
+          "url": "https://youtu.be/Vd9QkWsd5p4?si=DsG4kZESP9KBMUEV"
+        },
+        {
+          "title": "Sugar Rush Ride",
+          "url": "https://youtu.be/P9tKTxbgdkk?si=8sW4JQv-8pWHdjZ5"
+        },
+        {
+          "title": "Deja Vu",
+          "url": "https://youtu.be/DiHUEWBRQEI?si=QkZA3nf1mjajPNsh"
+        },
+        {
+          "title": "Anti-Romantic",
+          "url": "https://youtu.be/LYAkY8Dh9CU?si=RjGiWPic-CqjGtJo"
+        },
+        {
+          "title": "0X1=LOVESONG (I Know I Love You)",
+          "url": "https://youtu.be/d5bbqKYu51w?si=TsOj8E7KRdXESNeb"
+        }
+      ]
+    },
+
+    {
+      "name": "IVE",
+      "channel": "https://www.youtube.com/@IVEstarship",
+
+      "topSongs": [
+        {
+          "title": "LOVE DIVE",
+          "url": "https://youtu.be/Y8JFxS1HlDo?si=ujRnka8lz3g4L8KB"
+        },
+        {
+          "title": "After LIKE",
+          "url": "https://youtu.be/F0B7HDiY-10?si=nlPAYi7w0BAjJeyh"
+        },
+        {
+          "title": "I AM",
+          "url": "https://youtu.be/6ZUIwj3FgUY?si=DO8v2aGRt42hsCXw"
+        },
+        {
+          "title": "ELEVEN",
+          "url": "https://youtu.be/--FmExEAsM8?si=QSCpHmtdmbo-s7Ti"
+        },
+        {
+          "title": "Baddie",
+          "url": "https://youtu.be/Da4P2uT4mVc?si=H92w1ZRFm5LGVYVu"
+        }
+      ]
+    },
+
+    {
+      "name": "NewJeans",
+      "channel": "https://www.youtube.com/@NewJeans_official",
+
+      "topSongs": [
+        {
+          "title": "Ditto",
+          "url": "https://youtu.be/pSUydWEqKwE?si=cvZ_l1lp9tPz2a46"
+        },
+        {
+          "title": "Super Shy",
+          "url": "https://youtu.be/ArmDp-zijuc?si=AiNg-_aKEqHQuFoo"
+        },
+        {
+          "title": "Hype Boy",
+          "url": "https://youtu.be/11cta61wi0g?si=QUKhTyeikdBj6BlN"
+        },
+        {
+          "title": "OMG",
+          "url": "https://youtu.be/sVTy_wmn5SU?si=TAb-gp_Uz7FtYDf-"
+        },
+        {
+          "title": "Attention",
+          "url": "https://youtu.be/js1CtxSY38I?si=UYaXHyyFs95fxQty"
+        }
+      ]
+    },
+
+    {
+      "name": "LE SSERAFIM",
+      "channel": "https://www.youtube.com/@LESSERAFIM_official",
+
+      "topSongs": [
+        {
+          "title": "ANTIFRAGILE",
+          "url": "https://youtu.be/pyf8cbqyfPs?si=WJ5mBm-ET0xaTXQH"
+        },
+        {
+          "title": "Perfect Night",
+          "url": "https://youtu.be/hLvWy2b857I?si=eUwZKhiqCC3meltK"
+        },
+        {
+          "title": "CRAZY",
+          "url": "https://youtu.be/n6B5gQXlB-0?si=GJDjt-3TU_5jsd2f"
+        },
+        {
+          "title": "Smart",
+          "url": "https://youtu.be/KNexS61fjus?si=jURcrMpPUVg5cFLY"
+        },
+        {
+          "title": "Eve, Psyche & The Bluebeard’s wife",
+          "url": "https://youtu.be/dZs_cLHfnNA?si=yyT4_Wr5KdZeoxk5"
+        }
+      ]
+    },
+
+    {
+      "name": "(G)I-DLE",
+      "channel": "https://www.youtube.com/@official_i_dle",
+
+      "topSongs": [
+        {
+          "title": "Queencard",
+          "url": "https://youtu.be/7HDeem-JaSY?si=XFzwlqNadx6WZPlx"
+        },
+        {
+          "title": "Nxde",
+          "url": "https://youtu.be/fCO7f0SmrDc?si=mKMkdLkk8j9qzOkT"
+        },
+        {
+          "title": "TOMBOY",
+          "url": "https://youtu.be/Jh4QFaPmdss?si=BLZ6mG2etZXO8eIu"
+        },
+        {
+          "title": "MY BAG",
+          "url": "https://youtu.be/Si5pQHRRH5w?si=jqqQAbDqyDIa9MUn"
+        },
+        {
+          "title": "Allergy",
+          "url": "https://youtu.be/XZaBkbvteBc?si=x1ClMtI1HXQNuqzp"
+        }
+      ]
+    },
+
+    {
+      "name": "ILLIT",
+      "channel": "https://www.youtube.com/@ILLIT_official",
+
+      "topSongs": [
+        {
+          "title": "Magnetic",
+          "url": "https://youtu.be/Vk5-c_v4gMU?si=jGczpSYxDdPuDxd_"
+        },
+        {
+          "title": "Cherish (My Love)",
+          "url": "https://youtu.be/tbDGl7jEazA?si=cVyOYErslAlml99i"
+        },
+        {
+          "title": "Tick-Tack",
+          "url": "https://youtu.be/-nEGVrzPaiU?si=HEzx2HwT25QdcOSx"
+        },
+        {
+          "title": "Lucky Girl Syndrome",
+          "url": "https://youtu.be/UCmgGZbfjmk?si=Pe3RmkKIOoyrLPr2"
+        },
+        {
+          "title": "Midnight Fiction",
+          "url": "https://youtu.be/Sr7dWdf4Z3U?si=VU2uV3st47Sz0YFw"
+        }
+      ]
+    },
+
+    {
+      "name": "Baby Monster",
+      "channel": "https://www.youtube.com/@BABYMONSTER",
+
+      "topSongs": [
+        {
+          "title": "DRIP",
+          "url": "https://youtu.be/Zp-Jhuhq0bQ?si=NLzipNiSsR_pet3F"
+        },
+        {
+          "title": "BATTER UP",
+          "url": "https://youtu.be/olDWm2veCrM?si=-EhJ1GUA7qp63Yqh"
+        },
+        {
+          "title": "FOREVER",
+          "url": "https://youtu.be/eJCHKjt0MPw?si=RW2pNS3pOoc7cMWe"
+        },
+        {
+          "title": "LIKE THAT",
+          "url": "https://youtu.be/M8r3x4Re8-I?si=Nod-MfJUR63QjU8G"
+        },
+        {
+          "title": "SHEESH",
+          "url": "https://youtu.be/2wA_b6YHjqQ?si=6t6vTufP453PSS7D"
+        }
+      ]
+    },
+
+    {
+      "name": "EXO",
+      "channel": "https://www.youtube.com/@weareoneEXO",
+
+      "topSongs": [
+        {
+          "title": "Love Shot",
+          "url": "https://youtu.be/pSudEWBAYRE?si=9QJcNMAaVnif5hkZ"
+        },
+        {
+          "title": "Crown",
+          "url": "https://youtu.be/BWfKkqo1Mk8?si=iMFfVRdYUiaIaUkT"
+        },
+        {
+          "title": "Monster",
+          "url": "https://youtu.be/KSH-FVVtTf0?si=2cyVg-Mq-qTQO-L0"
+        },
+        {
+          "title": "Growl",
+          "url": "https://youtu.be/I3dezFzsNss?si=Gbdc75xX7qR7reWN"
+        },
+        {
+          "title": "The Eve ",
+          "url": "https://youtu.be/b6ycw7p9-bE?si=kX8hwnfrdvnzHO1n"
+        }
+      ]
+    },
+
+    {
+      "name": "FIFTY FIFTY",
+      "channel": "https://www.youtube.com/@WE_FIFTYFIFTY",
+
+      "topSongs": [
+        {
+          "title": "Cupid - Twin Ver. (feat. Sabrina Carpenter)",
+          "url": "https://youtu.be/8Kv2CKipG-Y?si=NsCowCuvoavfPUA1"
+        },
+        {
+          "title": "Cupid - Twin Ver. (Original Twin version)",
+          "url": "https://youtu.be/6uvUTu716rU?si=FHUcvmVgWbbvA_Q0"
+        },
+        {
+          "title": "Cupid (Original version)",
+          "url": "https://youtu.be/Qc7_zRjH808?si=e9KWtHob1QbmI1J7"
+        },
+        {
+          "title": "Tell Me",
+          "url": "https://youtu.be/F8rp_eSOtxA?si=tX0Rxd93nK2RJIaF"
+        },
+        {
+          "title": "Lovin' Me ",
+          "url": "https://youtu.be/4PnFuEbzxos?si=QaixRPjkfu3cqKUl"
+        }
+      ]
+    },
+
+    {
+      "name": "Ateez",
+      "channel": "https://www.youtube.com/@ATEEZofficial",
+
+      "topSongs": [
+        {
+          "title": "Adrenaline",
+          "url": "https://youtu.be/vqkfEUqjl6Y?si=ylD60of6Qnd_D-qQ"
+        },
+        {
+          "title": "Ice On My Teeth",
+          "url": "https://youtu.be/5OflOlcHLb8?si=m80L016o2LlDmJM6"
+        },
+        {
+          "title": "BOUNCY (K-HOT CHILLI PEPPERS) ",
+          "url": "https://youtu.be/U0G5OA6ZH5w?si=I6SO_pDPfBnGleGA"
+        },
+        {
+          "title": "In Your Fantasy",
+          "url": "https://youtu.be/JOF2ZTqvzwY?si=q9_03UAYwa0YMdFp"
+        },
+        {
+          "title": "NASA",
+          "url": "https://youtu.be/tVJBWoof09Q?si=8fT4e8HgQ1NnTxix"
+        }
+      ]
+    },
+
+    {
+      "name": "P1Harmony",
+      "channel": "https://www.youtube.com/@P1Harmonyofficial",
+
+      "topSongs": [
+        {
+          "title": "Pretty Boy",
+          "url": "https://youtu.be/6DIvjvlMVhQ?si=qK5gM3HcZBwmV1sl"
+        },
+        {
+          "title": "DUH!",
+          "url": "https://youtu.be/7G6_avXknCk?si=Pj1q-E-XOCZApata"
+        },
+        {
+          "title": "Killin' It",
+          "url": "https://youtu.be/FlNxa-XD11U?si=Q-yJiKSy_ZGq7nEw"
+        },
+        {
+          "title": "EX",
+          "url": "https://youtu.be/1EKcXRcGE_I?si=0ChLrm0tJvLB7mR2"
+        },
+        {
+          "title": "Fall In Love Again",
+          "url": "https://youtu.be/gvw87mowRsc?si=BlEhsXnmcbAdL4Bx"
+        }
+      ]
+    },
+
+    {
+      "name": "Xlov",
+      "channel": "https://www.youtube.com/@XLOV_official",
+
+      "topSongs": [
+        {
+          "title": "1&Only",
+          "url": "https://youtu.be/NBZgirj_C2Y?si=FluI--mlPStS8GyI"
+        },
+        {
+          "title": "Rizz",
+          "url": "https://youtu.be/NCuFonpf-qk?si=YK74FdaPelxtnmVw"
+        },
+        {
+          "title": "I'mma Be",
+          "url": "https://youtu.be/bgblQb-XFFY?si=VBeH1GjXJv_6HqVj"
+        },
+        {
+          "title": "Biii:-P",
+          "url": "https://youtu.be/gb_VcDoxa20?si=1P1JRV7QZVJSO6hJ"
+        },
+        {
+          "title": "Scent",
+          "url": "https://youtu.be/SKvCDNNeB7o?si=-3IPXWJijr_0WXL9"
+        }
+      ]
+    },
+
+    {
+      "name": "KiiiKiii",
+      "channel": "https://www.youtube.com/@KiiiKiii_starship",
+
+      "topSongs": [
+        {
+          "title": "I DO ME",
+          "url": "https://youtu.be/hAEfi_SKTEU?si=aAzNCmeKUShMTmjl"
+        },
+        {
+          "title": "404 (New Era)",
+          "url": "https://youtu.be/zhHB4dZTChw?si=1wCLi-ya0xhdxfAS"
+        },
+        {
+          "title": "Delulu",
+          "url": "https://youtu.be/BTlj6Sls7KE?si=0edpbtTK4yzFs3Yc"
+        },
+        {
+          "title": "DANCING ALONE",
+          "url": "https://youtu.be/u5wMLWs6LSs?si=GfRjfn1Q-Zy0lNaK"
+        },
+        {
+          "title": "BTG",
+          "url": "https://youtu.be/hnCd1RyTaOA?si=D57K-L2qOojqSRyo"
+        }
+      ]
+    },
+
+    {
+      "name": "WJSN",
+      "channel": "https://www.youtube.com/@WJSNofficial",
+
+      "topSongs": [
+        {
+          "title": "UNNATURAL",
+          "url": "https://youtu.be/wcgTStAuXQw?si=on1EyB7W2TIAMZaa"
+        },
+        {
+          "title": "Save Me, Save You",
+          "url": "https://youtu.be/2wOBbRu3OOc?si=7NVsPXdO6mRqFVqs"
+        },
+        {
+          "title": "Secret",
+          "url": "https://youtu.be/_uJxJ7tSi1w?si=KVW5uf-ruRna7C9N"
+        },
+        {
+          "title": "As You Wish",
+          "url": "https://youtu.be/2Q9G6R2hKIQ?si=vofKTvxq5z8PJJ0p"
+        },
+        {
+          "title": "Last Sequence",
+          "url": "https://youtu.be/z0YLZmcARRU?si=NdZDmRjjnZUudGFc"
+        }
+      ]
+    }
+
+  ]
+}

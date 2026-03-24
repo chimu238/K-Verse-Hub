@@ -1,0 +1,591 @@
+{
+  "groups": [
+    {
+      "name": "BTS",
+      "mainNews": "https://www.soompi.com/tag/bts",
+
+      "topNews": [
+        {
+          "title": "March Idol Group Brand Reputation Rankings Announced",
+          "url": "https://www.soompi.com/article/1824561wpp/march-idol-group-brand-reputation-rankings-announced-6"
+        },
+        {
+          "title": "ATEEZ, ENHYPEN, IVE, Stray Kids, BTS, CORTIS, NewJeans, And ILLIT Sweep Top Spots On Billboard World Albums Chart",
+          "url": "https://www.soompi.com/article/1823640wpp/ateez-enhypen-ive-stray-kids-bts-cortis-newjeans-and-illit-sweep-top-spots-on-billboard-world-albums-chart"
+        },
+        {
+          "title": "LE SSERAFIM's SPAGHETTI Ft. BTS’s j-hope Becomes Their 9th MV To Hit 100 Million Views",
+          "url": "https://www.soompi.com/article/1823540wpp/le-sserafims-spaghetti-ft-btss-j-hope-becomes-their-9th-mv-to-hit-100-million-views"
+        },
+        {
+          "title": "Watch: BTS Gears Up As 7 In Teaser For BTS THE COMEBACK LIVE: ARIRANG",
+          "url": "https://www.soompi.com/article/1822978wpp/watch-bts-gears-up-as-7-for-bts-the-comeback-live-arirang-teaser"
+        },
+        {
+          "title": "BTS Unveils Animation Trailer And First Group Photo For New Album ARIRANG",
+          "url": "https://www.soompi.com/article/1822563wpp/bts-unveils-track-list-for-new-album-arirang"
+        }
+      ]
+    },
+
+    {
+      "name": "BLACKPINK",
+      "mainNews": "https://www.soompi.com/tag/blackpink",
+
+      "topNews": [
+        {
+          "title": "Watch: BLACKPINK Takes 3rd Win For GO On Inkigayo; Performances By Yena, KickFlip, And More",
+          "url": "https://www.soompi.com/article/1825058wpp/watch-blackpink-takes-3rd-win-for-go-on-inkigayo-performances-by-yena-kickflip-and-more"
+        },
+        {
+          "title": "March Girl Group Member Brand Reputation Rankings Announced",
+          "url": "https://www.soompi.com/article/1825006wpp/march-girl-group-member-brand-reputation-rankings-announced-8"
+        },
+        {
+          "title": "Watch: BLACKPINK Takes 2nd Win For GO On M Countdown; Performances By P1Harmony, Yena, And More",
+          "url": "https://www.soompi.com/article/1824721wpp/watch-blackpink-takes-2nd-win-for-go-on-m-countdown-performances-by-p1harmony-yena-and-more"
+        },
+        {
+          "title": "Watch: BLACKPINK Takes 1st Win For GO On Show Champion; Performances By EVERGLOW, TUNEXX, And More",
+          "url": "https://www.soompi.com/article/1824469wpp/watch-blackpink-takes-1st-win-for-go-on-show-champion-performances-by-everglow-tunexx-and-more"
+        },
+        {
+          "title": "BLACKPINK Becomes 1st Female K-Pop Artist To Score 11 Entries On Billboard Hot 100",
+          "url": "https://www.soompi.com/article/1824238wpp/blackpink-becomes-1st-female-k-pop-artist-to-score-11-entries-on-billboard-hot-100"
+        }
+      ]
+    },
+
+     {
+      "name": "SEVENTEEN",
+      "mainNews": "https://www.soompi.com/tag/seventeen",
+
+      "topNews": [
+        {
+          "title": "March Boy Group Member Brand Reputation Rankings Announced",
+          "url": "https://www.soompi.com/article/1824939wpp/march-boy-group-member-brand-reputation-rankings-announced-8"
+        },
+        {
+          "title": "SEVENTEEN's Vernon And The8 To Launch New Unit Group",
+          "url": "https://www.soompi.com/article/1824639wpp/seventeens-vernon-and-the8-to-launch-new-unit-group"
+        },
+        {
+          "title": "7 Male K-Pop Idols With Iconic Diva Energy",
+          "url": "https://www.soompi.com/article/1821381wpp/7-male-k-pop-idols-with-iconic-diva-energy"
+        },
+        {
+          "title": "March Boy Group Brand Reputation Rankings Announced",
+          "url": "https://www.soompi.com/article/1823449wpp/march-boy-group-brand-reputation-rankings-announced-7"
+        },
+        {
+          "title": "SEVENTEEN's DxS Announces Stops For SERENADE ON STAGE Tour",
+          "url": "https://www.soompi.com/article/1820825wpp/seventeens-dxs-announces-stops-for-serenade-on-stage-tour"
+        }
+      ]
+    },
+
+    {
+      "name": "Stray Kids",
+      "mainNews": "https://www.soompi.com/tag/stray-kids",
+
+      "topNews": [
+        {
+          "title": "Stray Kids, TXT, SEVENTEEN, Jennie, HUNTR/X, TWS, ILLIT, And More Win At 2026 Japan Gold Disc Awards",
+          "url": "https://www.soompi.com/article/1825121wpp/stray-kids-txt-seventeen-jennie-huntr-x-tws-illit-and-more-win-at-2026-japan-gold-disc-awards"
+        },
+        {
+          "title": "ATEEZ, ENHYPEN, Stray Kids, BTS, CORTIS, NewJeans, IVE, And ILLIT Sweep Top Spots On Billboard World Albums Chart",
+          "url": "https://www.soompi.com/article/1825108wpp/ateez-enhypen-stray-kids-bts-cortis-newjeans-ive-and-illit-sweep-top-spots-on-billboard-world-albums-chart"
+        },
+        {
+          "title": "Stray Kids’ Seungmin To Participate In Upcoming Fan Meeting In Limited Capacity Due To Injury",
+          "url": "https://www.soompi.com/article/1824688wpp/stray-kids-seungmin-to-participate-in-upcoming-fan-meeting-in-limited-capacity-due-to-injury"
+        },
+        {
+          "title": "March Idol Group Brand Reputation Rankings Announced",
+          "url": "https://www.soompi.com/article/1824561wpp/march-idol-group-brand-reputation-rankings-announced-6"
+        },
+        {
+          "title": "ATEEZ, ENHYPEN, IVE, Stray Kids, BTS, CORTIS, NewJeans, And ILLIT Sweep Top Spots On Billboard World Albums Chart",
+          "url": "https://www.soompi.com/article/1823640wpp/ateez-enhypen-ive-stray-kids-bts-cortis-newjeans-and-illit-sweep-top-spots-on-billboard-world-albums-chart"
+        }
+      ]
+    },
+
+    {
+      "name": "TWICE",
+      "mainNews": "https://www.soompi.com/tag/twice",
+
+      "topNews": [
+        {
+          "title": "March Girl Group Member Brand Reputation Rankings Announced",
+          "url": "https://www.soompi.com/article/1825006wpp/march-girl-group-member-brand-reputation-rankings-announced-8"
+        },
+        {
+          "title": "March Idol Group Brand Reputation Rankings Announced",
+          "url": "https://www.soompi.com/article/1824561wpp/march-idol-group-brand-reputation-rankings-announced-6"
+        },
+        {
+          "title": "TXT, RIIZE, And TWICE's MISAMO Earn Platinum And Gold Certifications In Japan",
+          "url": "https://www.soompi.com/article/1824551wpp/txt-riize-and-twices-misamo-earn-platinum-and-gold-certifications-in-japan"
+        },
+        {
+          "title": "Star Brand Reputation Rankings Announced",
+          "url": "https://www.soompi.com/article/1822072wpp/star-brand-reputation-rankings-announced-13"
+        },
+        {
+          "title": "LE SSERAFIM, TWICE, BABYMONSTER, And HUNTR/X Earn RIAJ Platinum Certifications For Streaming In Japan",
+          "url": "https://www.soompi.com/article/1821815wpp/le-sserafim-twice-babymonster-and-huntr-x-earn-riaj-platinum-certifications-for-streaming-in-japan"
+        }
+      ]
+    },
+
+    {
+      "name": "aespa",
+      "mainNews": "https://www.soompi.com/tag/aespa",
+
+      "topNews": [
+        {
+          "title": "March Girl Group Member Brand Reputation Rankings Announced",
+          "url": "https://www.soompi.com/article/1825006wpp/march-girl-group-member-brand-reputation-rankings-announced-8"
+        },
+        {
+          "title": "aespa To Make May Comeback",
+          "url": "https://www.soompi.com/article/1824805wpp/aespa-to-make-may-comeback"
+        },
+        {
+          "title": "March Idol Group Brand Reputation Rankings Announced",
+          "url": "https://www.soompi.com/article/1824561wpp/march-idol-group-brand-reputation-rankings-announced-6"
+        },
+        {
+          "title": "Individual Idol Brand Reputation Rankings Announced",
+          "url": "https://www.soompi.com/article/1822548wpp/individual-idol-brand-reputation-rankings-announced-2"
+        },
+        {
+          "title": "Star Brand Reputation Rankings Announced",
+          "url": "https://www.soompi.com/article/1822072wpp/star-brand-reputation-rankings-announced-13"
+        }
+      ]
+    },
+
+     {
+      "name": "ENHYPEN",
+      "mainNews": "https://www.soompi.com/tag/enhypen",
+
+      "topNews": [
+        {
+          "title": "ATEEZ, ENHYPEN, Stray Kids, BTS, CORTIS, NewJeans, IVE, And ILLIT Sweep Top Spots On Billboard World Albums Chart",
+          "url": "https://www.soompi.com/article/1825108wpp/ateez-enhypen-stray-kids-bts-cortis-newjeans-ive-and-illit-sweep-top-spots-on-billboard-world-albums-chart"
+        },
+        {
+          "title": "BELIFT LAB Reaffirms Heeseung Is Not Returning To ENHYPEN",
+          "url": "https://www.soompi.com/article/1825105wpp/belift-lab-reaffirms-heeseung-is-not-returning-to-enhypen"
+        },
+        {
+          "title": "March Boy Group Member Brand Reputation Rankings Announced",
+          "url": "https://www.soompi.com/article/1824939wpp/march-boy-group-member-brand-reputation-rankings-announced-8"
+        },
+        {
+          "title": "ENHYPEN's Weekly EN-O' CLOCK Series To Go On Hiatus",
+          "url": "https://www.soompi.com/article/1824765wpp/enhypens-weekly-en-o-clock-series-to-go-on-hiatus"
+        },
+        {
+          "title": "March Idol Group Brand Reputation Rankings Announced",
+          "url": "https://www.soompi.com/article/1824561wpp/march-idol-group-brand-reputation-rankings-announced-6"
+        }
+      ]
+    },
+
+     {
+      "name": "TOMORROW X TOGETHER",
+      "mainNews": "https://www.soompi.com/tag/txt",
+
+      "topNews": [
+        {
+          "title": "Stray Kids, TXT, SEVENTEEN, Jennie, HUNTR/X, TWS, ILLIT, And More Win At 2026 Japan Gold Disc Awards",
+          "url": "https://www.soompi.com/article/1825121wpp/stray-kids-txt-seventeen-jennie-huntr-x-tws-illit-and-more-win-at-2026-japan-gold-disc-awards"
+        },
+        {
+          "title": "TXT, RIIZE, And TWICE's MISAMO Earn Platinum And Gold Certifications In Japan",
+          "url": "https://www.soompi.com/article/1824551wpp/txt-riize-and-twices-misamo-earn-platinum-and-gold-certifications-in-japan"
+        },
+        {
+          "title": "7 Male K-Pop Idols With Iconic Diva Energy",
+          "url": "https://www.soompi.com/article/1821381wpp/7-male-k-pop-idols-with-iconic-diva-energy"
+        },
+        {
+          "title": "March Boy Group Brand Reputation Rankings Announced",
+          "url": "https://www.soompi.com/article/1823449wpp/march-boy-group-brand-reputation-rankings-announced-7"
+        },
+        {
+          "title": "7 Underrated K-Pop Tracks That Experienced A Sudden Surge In Popularity Later On",
+          "url": "https://www.soompi.com/article/1820813wpp/7-underrated-k-pop-tracks-that-experienced-a-sudden-surge-in-popularity-later-on"
+        }
+      ]
+    },
+
+     {
+      "name": "IVE",
+      "mainNews": "https://www.soompi.com/tag/ive",
+
+      "topNews": [
+        {
+          "title": "ATEEZ, ENHYPEN, Stray Kids, BTS, CORTIS, NewJeans, IVE, And ILLIT Sweep Top Spots On Billboard World Albums Chart",
+          "url": "https://www.soompi.com/article/1825108wpp/ateez-enhypen-stray-kids-bts-cortis-newjeans-ive-and-illit-sweep-top-spots-on-billboard-world-albums-chart"
+        },
+        {
+          "title": "March Girl Group Member Brand Reputation Rankings Announced",
+          "url": "https://www.soompi.com/article/1825006wpp/march-girl-group-member-brand-reputation-rankings-announced-8"
+        },
+        {
+          "title": "Watch: IVE Takes 8th Win And Triple Crown For BANG BANG On Music Bank; Performances By Onew, KickFlip, And More",
+          "url": "https://www.soompi.com/article/1824877wpp/watch-ive-takes-8th-win-and-triple-crown-for-bang-bang-on-music-bank-performances-by-onew-kickflip-and-more"
+        },
+        {
+          "title": "March Idol Group Brand Reputation Rankings Announced",
+          "url": "https://www.soompi.com/article/1824561wpp/march-idol-group-brand-reputation-rankings-announced-6"
+        },
+        {
+          "title": "BLACKPINK, IVE's Jang Won Young, KiiiKiii, And More Top Circle Weekly Charts",
+          "url": "https://www.soompi.com/article/1824225wpp/blackpink-ives-jang-won-young-kiiikiii-and-more-top-circle-weekly-charts"
+        }
+      ]
+    },
+
+    {
+      "name": "NewJeans",
+      "mainNews": "https://www.soompi.com/tag/newjeans",
+
+      "topNews": [
+        {
+          "title": "ATEEZ, ENHYPEN, Stray Kids, BTS, CORTIS, NewJeans, IVE, And ILLIT Sweep Top Spots On Billboard World Albums Chart",
+          "url": "https://www.soompi.com/article/1825108wpp/ateez-enhypen-stray-kids-bts-cortis-newjeans-ive-and-illit-sweep-top-spots-on-billboard-world-albums-chart"
+        },
+        {
+          "title": "ATEEZ, ENHYPEN, IVE, Stray Kids, BTS, CORTIS, NewJeans, And ILLIT Sweep Top Spots On Billboard World Albums Chart",
+          "url": "https://www.soompi.com/article/1823640wpp/ateez-enhypen-ive-stray-kids-bts-cortis-newjeans-and-illit-sweep-top-spots-on-billboard-world-albums-chart"
+        },
+        {
+          "title": "ATEEZ, ENHYPEN, Stray Kids, BTS, CORTIS, ILLIT, And More Sweep Top Spots On Billboard World Albums Chart",
+          "url": "https://www.soompi.com/article/1822185wpp/ateez-enhypen-stray-kids-bts-cortis-illit-and-more-sweep-top-spots-on-billboard-world-albums-chart"
+        },
+        {
+          "title": "ENHYPEN, Stray Kids, BTS, CORTIS, ILLIT, And NewJeans Claim Top Spots On Billboard World Albums Chart",
+          "url": "https://www.soompi.com/article/1819577wpp/enhypen-stray-kids-bts-cortis-illit-and-newjeans-claim-top-spots-on-billboard-world-albums-chart"
+        },
+        {
+          "title": "ENHYPEN, Stray Kids, BTS, CORTIS, ILLIT, And NewJeans Sweep Top Spots On Billboard World Albums Chart",
+          "url": "https://www.soompi.com/article/1818020wpp/enhypen-stray-kids-bts-cortis-illit-and-newjeans-sweep-top-spots-on-billboard-world-albums-chart"
+        }
+      ]
+    },
+
+    {
+      "name": "LE SSERAFIM",
+      "mainNews": "https://www.soompi.com/tag/le-sserafim",
+
+      "topNews": [
+        {
+          "title": "March Girl Group Member Brand Reputation Rankings Announced",
+          "url": "https://www.soompi.com/article/1825006wpp/march-girl-group-member-brand-reputation-rankings-announced-8"
+        },
+        {
+          "title": "Soompi's K-Pop Music Chart 2026, March Week 2",
+          "url": "https://www.soompi.com/article/1823567wpp/soompis-k-pop-music-chart-2026-march-week-2"
+        },
+        {
+          "title": "LE SSERAFIM's SPAGHETTI Ft. BTS’s j-hope Becomes Their 9th MV To Hit 100 Million Views",
+          "url": "https://www.soompi.com/article/1823540wpp/le-sserafims-spaghetti-ft-btss-j-hope-becomes-their-9th-mv-to-hit-100-million-views"
+        },
+        {
+          "title": "March Girl Group Brand Reputation Rankings Announced",
+          "url": "https://www.soompi.com/article/1823534wpp/march-girl-group-brand-reputation-rankings-announced-8"
+        },
+        {
+          "title": "LE SSERAFIM Confirmed To Make April Comeback",
+          "url": "https://www.soompi.com/article/1823103wpp/le-sserafim-confirmed-to-make-april-comeback"
+        }
+      ]
+    },
+
+     {
+      "name": "(G)I-DLE",
+      "mainNews": "https://www.soompi.com/tag/gi-dle",
+
+      "topNews": [
+        {
+          "title": "Say Bye To Bright Pink – Muted Makeup Tones Are The Hottest Summer Trend According To These Idols",
+          "url": "https://www.soompi.com/article/1741777wpp/say-bye-to-bright-pink-muted-makeup-tones-are-the-hottest-summer-trend-according-to-these-idols"
+        },
+        {
+          "title": "Star Brand Reputation Rankings Announced",
+          "url": "https://www.soompi.com/article/1741499wpp/star-brand-reputation-rankings-announced-9"
+        },
+        {
+          "title": "Ready For Winter: 12 Fashion & Hair Trends From K-Pop Stars",
+          "url": "https://www.soompi.com/article/1556677wpp/ready-for-winter-12-fashion-hair-trends-from-k-pop-stars"
+        },
+        {
+          "title": "8 K-Pop Idol Styles To Add To Your Wardrobe This Year",
+          "url": "https://www.soompi.com/article/1449050wpp/8-k-pop-idol-styles-to-add-to-your-wardrobe-this-year"
+        },
+        {
+          "title": "Tumblr Reveals 2020's Top K-Pop Stars And More On The Site",
+          "url": "https://www.soompi.com/article/1442287wpp/tumblr-reveals-2020s-top-k-pop-stars-and-more-on-the-site"
+        }
+      ]
+    },
+
+    {
+      "name": "ILLIT",
+      "mainNews": "https://www.soompi.com/tag/illit",
+
+      "topNews": [
+        {
+          "title": "Stray Kids, TXT, SEVENTEEN, Jennie, HUNTR/X, TWS, ILLIT, And More Win At 2026 Japan Gold Disc Awards",
+          "url": "https://www.soompi.com/article/1825121wpp/stray-kids-txt-seventeen-jennie-huntr-x-tws-illit-and-more-win-at-2026-japan-gold-disc-awards"
+        },
+        {
+          "title": "ATEEZ, ENHYPEN, Stray Kids, BTS, CORTIS, NewJeans, IVE, And ILLIT Sweep Top Spots On Billboard World Albums Chart",
+          "url": "https://www.soompi.com/article/1825108wpp/ateez-enhypen-stray-kids-bts-cortis-newjeans-ive-and-illit-sweep-top-spots-on-billboard-world-albums-chart"
+        },
+        {
+          "title": "ILLIT Announces April Comeback Date For It's Me",
+          "url": "https://www.soompi.com/article/1825059wpp/illit-announces-april-comeback-date-for-its-me"
+        },
+        {
+          "title": "March Girl Group Member Brand Reputation Rankings Announced",
+          "url": "https://www.soompi.com/article/1825006wpp/march-girl-group-member-brand-reputation-rankings-announced-8"
+        },
+        {
+          "title": "2026 Weverse Con Festival Announces First Lineup",
+          "url": "https://www.soompi.com/article/1824336wpp/2026-weverse-con-festival-announces-first-lineup"
+        }
+      ]
+    },
+
+     {
+      "name": "Baby Monster",
+      "mainNews": "https://www.soompi.com/tag/babymonster",
+
+      "topNews": [
+        {
+          "title": "BABYMONSTER Announces 2026-2027 World Tour",
+          "url": "https://www.soompi.com/article/1825066wpp/babymonster-announces-2026-2027-world-tour"
+        },
+        {
+          "title": "BABYMONSTER's WE GO UP Becomes Their 5th MV To Hit 200 Million Views",
+          "url": "https://www.soompi.com/article/1823805wpp/babymonsters-we-go-up-becomes-their-5th-mv-to-hit-200-million-views"
+        },
+        {
+          "title": "March Girl Group Brand Reputation Rankings Announced",
+          "url": "https://www.soompi.com/article/1823534wpp/march-girl-group-brand-reputation-rankings-announced-8"
+        },
+        {
+          "title": "7 Underrated K-Pop Tracks That Experienced A Sudden Surge In Popularity Later On",
+          "url": "https://www.soompi.com/article/1820813wpp/7-underrated-k-pop-tracks-that-experienced-a-sudden-surge-in-popularity-later-on"
+        },
+        {
+          "title": "March Individual Rookie Idol Brand Reputation Rankings Announced",
+          "url": "https://www.soompi.com/article/1822617wpp/march-individual-rookie-idol-brand-reputation-rankings-announced"
+        }
+      ]
+    },
+
+     {
+      "name": "EXO",
+      "mainNews": "https://www.soompi.com/tag/exo",
+
+      "topNews": [
+        {
+          "title": "Daftar Master Tur K-Pop di Indonesia Tahun 2026: Konser, Fan Meetings, dan Lainnya",
+          "url": "https://www.soompi.com/article/1825533wpp/daftar-master-tur-k-pop-di-indonesia-tahun-2026-konser-fan-meetings-dan-lainnya"
+        },
+        {
+          "title": "Senarai Induk Jelajah K-Pop Malaysia 2026: Konsert, Perjumpaan dengan Peminat dan Banyak Lagi",
+          "url": "https://www.soompi.com/article/1825510wpp/senarai-induk-jelajah-k-pop-malaysia-2026-konsert-perjumpaan-dengan-peminat-dan-banyak-lagi"
+        },
+        {
+          "title": "March Boy Group Member Brand Reputation Rankings Announced",
+          "url": "https://www.soompi.com/article/1824939wpp/march-boy-group-member-brand-reputation-rankings-announced-8"
+        },
+        {
+          "title": "March Idol Group Brand Reputation Rankings Announced",
+          "url": "https://www.soompi.com/article/1824561wpp/march-idol-group-brand-reputation-rankings-announced-6"
+        },
+        {
+          "title": "March Boy Group Brand Reputation Rankings Announced",
+          "url": "https://www.soompi.com/article/1823449wpp/march-boy-group-brand-reputation-rankings-announced-7"
+        }
+      ]
+    },
+
+     {
+      "name": "FIFTY FIFTY",
+      "mainNews": "https://www.soompi.com/tag/fifty-fifty",
+
+      "topNews": [
+        {
+          "title": "March Idol Group Brand Reputation Rankings Announced",
+          "url": "https://www.soompi.com/article/1824561wpp/march-idol-group-brand-reputation-rankings-announced-6"
+        },
+        {
+          "title": "FIFTY FIFTY's Hana To Temporarily Halt Activities Due To Health",
+          "url": "https://www.soompi.com/article/1823700wpp/fifty-fiftys-hana-to-temporarily-halt-activities-due-to-health"
+        },
+        {
+          "title": "March Girl Group Brand Reputation Rankings Announced",
+          "url": "https://www.soompi.com/article/1823534wpp/march-girl-group-brand-reputation-rankings-announced-8"
+        },
+        {
+          "title": "Watch: Performances From 2026 D Awards",
+          "url": "https://www.soompi.com/article/1819508wpp/watch-performances-from-2026-d-awards"
+        },
+        {
+          "title": "Winners Of 2026 D Awards",
+          "url": "https://www.soompi.com/article/1818907wpp/winners-of-2026-d-awards"
+        }
+      ]
+    },
+
+     {
+      "name": "Ateez",
+      "mainNews": "https://www.soompi.com/tag/ateez",
+
+      "topNews": [
+        {
+          "title": "Senarai Induk Jelajah K-Pop Malaysia 2026: Konsert, Perjumpaan dengan Peminat dan Banyak Lagi",
+          "url": "https://www.soompi.com/article/1825510wpp/senarai-induk-jelajah-k-pop-malaysia-2026-konsert-perjumpaan-dengan-peminat-dan-banyak-lagi"
+        },
+        {
+          "title": "ATEEZ, ENHYPEN, Stray Kids, BTS, CORTIS, NewJeans, IVE, And ILLIT Sweep Top Spots On Billboard World Albums Chart",
+          "url": "https://www.soompi.com/article/1825108wpp/ateez-enhypen-stray-kids-bts-cortis-newjeans-ive-and-illit-sweep-top-spots-on-billboard-world-albums-chart"
+        },
+        {
+          "title": "Update: Asia Star Entertainer Awards (ASEA) 2026 Reveals Second Performer Lineup",
+          "url": "https://www.soompi.com/article/1824350wpp/asia-star-entertainer-awards-asea-2026-announces-date-and-venue"
+        },
+        {
+          "title": "ATEEZ, ENHYPEN, IVE, Stray Kids, BTS, CORTIS, NewJeans, And ILLIT Sweep Top Spots On Billboard World Albums Chart",
+          "url": "https://www.soompi.com/article/1823640wpp/ateez-enhypen-ive-stray-kids-bts-cortis-newjeans-and-illit-sweep-top-spots-on-billboard-world-albums-chart"
+        },
+        {
+          "title": "March Boy Group Brand Reputation Rankings Announced",
+          "url": "https://www.soompi.com/article/1823449wpp/march-boy-group-brand-reputation-rankings-announced-7"
+        }
+      ]
+    },
+
+    {
+      "name": "P1Harmony",
+      "mainNews": "https://www.soompi.com/tag/ateez",
+
+      "topNews": [
+        {
+          "title": "Watch: BLACKPINK Takes 3rd Win For GO On Inkigayo; Performances By Yena, KickFlip, And More",
+          "url": "https://www.soompi.com/article/1825058wpp/watch-blackpink-takes-3rd-win-for-go-on-inkigayo-performances-by-yena-kickflip-and-more"
+        },
+        {
+          "title": "Watch: Hearts2Hearts Takes 1st-Ever Public Broadcast Network Music Show Win On Music Core With RUDE; Performances By Yena And More",
+          "url": "https://www.soompi.com/article/1824999wpp/watch-hearts2hearts-takes-1st-ever-public-broadcast-network-music-show-win-on-music-core-with-rude-performances-by-yena-and-more"
+        },
+        {
+          "title": "Watch: IVE Takes 8th Win And Triple Crown For BANG BANG On Music Bank; Performances By Onew, KickFlip, And More",
+          "url": "https://www.soompi.com/article/1824877wpp/watch-ive-takes-8th-win-and-triple-crown-for-bang-bang-on-music-bank-performances-by-onew-kickflip-and-more"
+        },
+        {
+          "title": "Watch: BLACKPINK Takes 2nd Win For GO On M Countdown; Performances By P1Harmony, Yena, And More",
+          "url": "https://www.soompi.com/article/1824721wpp/watch-blackpink-takes-2nd-win-for-go-on-m-countdown-performances-by-p1harmony-yena-and-more"
+        },
+        {
+          "title": "2026 Weverse Con Festival Announces First Lineup",
+          "url": "https://www.soompi.com/article/1824336wpp/2026-weverse-con-festival-announces-first-lineup"
+        }
+      ]
+    },
+
+    {
+      "name": "Xlov",
+      "mainNews": "https://www.soompi.com/tag/xlov",
+
+      "topNews": [
+        {
+          "title": "XLOV's Agency Acquired By RBW Subsidiary WM Entertainment",
+          "url": "https://www.soompi.com/article/1824533wpp/xlovs-agency-acquired-by-rbw-subsidiary-wm-entertainment"
+        },
+        {
+          "title": "February Rising Singer Brand Reputation Rankings Announced",
+          "url": "https://www.soompi.com/article/1821524wpp/february-rising-singer-brand-reputation-rankings-announced"
+        },
+        {
+          "title": "XLOV's Copenhagen Concert Canceled At Last Minute",
+          "url": "https://www.soompi.com/article/1819573wpp/xlovs-copenhagen-concert-canceled-at-last-minute"
+        },
+        {
+          "title": "February Rookie Idol Group Brand Reputation Rankings Announced",
+          "url": "https://www.soompi.com/article/1817012wpp/february-rookie-idol-group-brand-reputation-rankings-announced-3"
+        },
+        {
+          "title": "January Boy Group Brand Reputation Rankings Announced",
+          "url": "https://www.soompi.com/article/1811356wpp/january-boy-group-brand-reputation-rankings-announced-8"
+        }
+      ]
+    },
+
+     {
+      "name": "KiiiKiii",
+      "mainNews": "https://www.soompi.com/tag/kiiikiii",
+
+      "topNews": [
+        {
+          "title": "March Idol Group Brand Reputation Rankings Announced",
+          "url": "https://www.soompi.com/article/1824561wpp/march-idol-group-brand-reputation-rankings-announced-6"
+        },
+        {
+          "title": "BLACKPINK, IVE's Jang Won Young, KiiiKiii, And More Top Circle Weekly Charts",
+          "url": "https://www.soompi.com/article/1824225wpp/blackpink-ives-jang-won-young-kiiikiii-and-more-top-circle-weekly-charts"
+        },
+        {
+          "title": "March Rookie Idol Group Brand Reputation Rankings Announced",
+          "url": "https://www.soompi.com/article/1823692wpp/march-rookie-idol-group-brand-reputation-rankings-announced-3"
+        },
+        {
+          "title": "Watch: IVE Takes 7th Win For BANG BANG On Inkigayo; Performances By WOODZ, Hearts2Hearts, And More",
+          "url": "https://www.soompi.com/article/1823629wpp/watch-ive-takes-7th-win-for-bang-bang-on-inkigayo-performances-by-woodz-hearts2hearts-and-more"
+        },
+        {
+          "title": "Soompi's K-Pop Music Chart 2026, March Week 2",
+          "url": "https://www.soompi.com/article/1823567wpp/soompis-k-pop-music-chart-2026-march-week-2"
+        }
+      ]
+    },
+
+     {
+      "name": "wjsn",
+      "mainNews": "https://www.soompi.com/tag/wjsn",
+
+      "topNews": [
+        {
+          "title": "March Girl Group Brand Reputation Rankings Announced",
+          "url": "https://www.soompi.com/article/1823534wpp/march-girl-group-brand-reputation-rankings-announced-8"
+        },
+        {
+          "title": "February Rising Singer Brand Reputation Rankings Announced",
+          "url": "https://www.soompi.com/article/1821524wpp/february-rising-singer-brand-reputation-rankings-announced"
+        },
+        {
+          "title": "Watch: WJSN Celebrates 10th Debut Anniversary In Picturesque Bloom hour Comeback MV",
+          "url": "https://www.soompi.com/article/1820515wpp/wjsn-to-return-with-10th-anniversary-single-bloom-hour"
+        },
+        {
+          "title": "February Girl Group Brand Reputation Rankings Announced",
+          "url": "https://www.soompi.com/article/1817857wpp/february-girl-group-brand-reputation-rankings-announced-8"
+        },
+        {
+          "title": "January Rising Singer Brand Reputation Rankings Announced",
+          "url": "https://www.soompi.com/article/1814529wpp/january-rising-singer-brand-reputation-rankings-announced"
+        }
+      ]
+    }
+  ]
+}

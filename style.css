@@ -1,0 +1,602 @@
+/* =======================
+   GLOBAL RESET
+======================= */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Segoe UI', sans-serif;
+    background: linear-gradient(135deg, #f9f7ff, #e6f0ff);
+    color: #222;
+    line-height: 1.6;
+   padding-top: 10px;
+}
+
+/* =======================
+   HEADER
+======================= */
+header {
+    background: linear-gradient(90deg, #ff4d6d, #6a0dad, #00c2ff);
+    background-size: 300% 300%;
+    animation: gradientMove 8s infinite alternate;
+    color: white;
+    padding: 20px;
+    text-align: center;
+
+    position: sticky;   /* 🔥 main line */
+    top: 0;             /* upar fix */
+    z-index: 1000;      /* sabke upar rahe */
+}
+
+@keyframes gradientMove {
+    0% { background-position: left; }
+    100% { background-position: right; }
+}
+
+nav {
+    margin-top: 10px;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    margin: 0 15px;
+    font-weight: bold;
+    transition: 0.3s;
+}
+
+nav a:hover {
+    color: #ffe066;
+}
+
+/* =======================
+   HERO SECTION
+======================= */
+.hero {
+    padding: 80px 20px;
+    text-align: center;
+    background: white;
+}
+
+.hero h2 {
+    font-size: 32px;
+    margin-bottom: 20px;
+    background: linear-gradient(90deg, #ff4d6d, #6a0dad, #00c2ff);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+/* =======================
+   BUTTON
+======================= */
+.btn {
+    display: inline-block;
+    padding: 10px 20px;
+    background: linear-gradient(90deg, #ff4d6d, #6a0dad);
+    color: white;
+    text-decoration: none;
+    border-radius: 25px;
+    transition: 0.3s;
+}
+
+.btn:hover {
+    transform: scale(1.05);
+}
+
+/* =======================
+   GROUPS GRID
+======================= */
+.groups-section {
+    padding: 50px 20px;
+    text-align: center;
+}
+.section-title {
+    font-size: 32px;
+    margin-bottom: 20px;
+
+    background: linear-gradient(90deg, #6a0dad, #ff4d6d, #00c2ff);
+    background-clip: text;
+    -webkit-background-clip: text;
+    color: transparent;
+}
+
+.group-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 20px;
+}
+
+.group-card {
+    background: linear-gradient(135deg, #fff0f5, #f3e8ff);
+    padding: 20px;
+    border-radius: 15px;
+    box-shadow: 0 8px 20px rgba(0,0,0,0.15);
+    transition: 0.3s ease;
+    position: relative;
+    overflow: hidden;
+}
+
+.group-card::before {
+    content: "";
+    position: absolute;
+    width: 100%;
+    height: 5px;
+    top: 0;
+    left: 0;
+    background: linear-gradient(90deg, #ff4d6d, #6a0dad, #00c2ff);
+}
+
+.group-card:hover {
+    transform: translateY(-10px) scale(1.03);
+}
+.group-card h3 {
+    font-size: 20px;
+    margin-bottom: 10px;
+    background: linear-gradient(90deg, #ff4d6d, #6a0dad);
+    background-clip: text;
+    -webkit-background-clip: text;
+    color: transparent;
+}
+
+.group-card p {
+    font-size: 14px;
+    margin: 5px 0;
+}
+
+/* =======================
+   NEWS SECTION
+======================= */
+.news-section {
+    padding: 50px 20px;
+    text-align: center;
+}
+
+#news-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 20px;
+}
+
+.news-card {
+    background: white;
+    padding: 20px;
+    border-radius: 15px;
+    box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+    transition: 0.3s ease;
+}
+
+.news-card:hover {
+    transform: translateY(-8px);
+}
+
+.news-card a {
+    text-decoration: none;
+    display: inline-block;
+    margin-top: 10px;
+    padding: 8px 14px;
+    border-radius: 20px;
+    background: linear-gradient(90deg, #6a0dad, #00c2ff);
+    color: white;
+    font-size: 14px;
+}
+
+/* =======================
+   LIVE PAGE
+======================= */
+.live-section {
+    padding: 60px 20px;
+    text-align: center;
+}
+
+.live-section iframe {
+    width: 90%;
+    max-width: 800px;
+    height: 450px;
+    border-radius: 15px;
+    box-shadow: 0 5px 15px rgba(0,0,0,0.2);
+}
+
+/* =======================
+   FOOTER
+======================= */
+footer {
+    margin-top: 60px;
+    background: linear-gradient(90deg, #ff4d6d, #6a0dad, #00c2ff);
+    color: white;
+    text-align: center;
+    padding: 15px;
+}
+
+/* =======================
+   RESPONSIVE
+======================= */
+@media (max-width: 768px) {
+    nav a {
+        display: block;
+        margin: 10px 0;
+    }
+
+    .hero h2 {
+        font-size: 24px;
+    }
+}
+#darkToggle {
+    position: absolute;
+    right: 20px;
+    top: 20px;
+    padding: 5px 10px;
+    cursor: pointer;
+}
+
+.dark-mode {
+    background-color: #111;
+    color: white;
+}
+
+.dark-mode header {
+    background-color: #222;
+}
+/* =======================
+   NEW BUTTON STYLES
+======================= */
+
+/* Main News Button (Big + Highlighted) */
+.mainBtn {
+    background: linear-gradient(135deg, #ffd700, #ffb300);
+    color: black;
+    border: none;
+    padding: 14px 25px;
+    margin: 15px 0;
+    border-radius: 30px;
+    font-size: 17px;
+    font-weight: bold;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+.mainBtn:hover {
+    transform: translateY(-3px) scale(1.05);
+    box-shadow: 0 0 15px rgba(106, 13, 173, 0.7);
+}
+/* Top News Buttons */
+.newsBtn {
+    background: linear-gradient(90deg, #00c6ff, #0072ff);;
+    color: black;
+    border: none;
+    padding: 10px;
+    margin: 6px;
+    border-radius: 20px;
+    cursor: pointer;
+    transition: 0.3s;
+    width: 90%;
+}
+
+.newsBtn:hover {
+    transform: scale(1.05);
+    box-shadow: 0 0 8px rgba(0, 194, 255, 0.6);
+}
+
+/* Improve News Card Look */
+.news-card {
+    background: linear-gradient(135deg, #f8e6ff, #ffe6f2);
+}
+/* Clickable group title */
+.groupTitle {
+  cursor: pointer;
+  padding: 10px;
+  border-radius: 10px;
+  transition: 0.3s;
+}
+
+.groupTitle:hover {
+  background: rgba(0, 0, 0, 0.1);
+}
+
+/* Hidden content animation */
+.newsContent {
+  margin-top: 10px;
+}
+/* Grid layout for groups */
+#newsContainer {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 20px;
+  padding: 20px;
+}
+
+/* Group button as card */
+.groupTitle {
+  background: linear-gradient(135deg, #ff4d6d, #6a0dad);
+  color: white;
+  padding: 15px;
+  border-radius: 15px;
+  text-align: center;
+  font-weight: bold;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+/* Hover effect */
+.groupTitle:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 5px 15px rgba(106, 13, 173, 0.5);
+}
+
+/* News content inside card */
+.newsContent {
+  margin-top: 10px;
+}
+/* Live page grid */
+#liveContainer {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: 20px;
+  padding: 20px;
+}
+
+/* Card style */
+.live-card {
+  background: linear-gradient(135deg, #f8e6ff, #ffe6f2);
+  padding: 25px;   /* bada */
+  border-radius: 20px;
+  text-align: center;
+  transition: 0.3s;
+}
+
+.live-card h3 {
+  font-size: 20px;
+  margin-bottom: 10px;
+}
+
+/* Buttons */
+.live-btn {
+  display: block;
+  margin: 10px auto;
+  padding: 12px 20px;   /* size bada */
+  border-radius: 25px;
+  border: none;
+  font-size: 16px;      /* text bada */
+  font-weight: bold;
+  background: linear-gradient(90deg, #6a0dad, #ff4d6d);
+  color: white;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+.live-btn:hover {
+  transform: scale(1.05);
+}
+.live-btn {
+  margin: 12px 0;
+}
+/* Live Card */
+.live-card h3 {
+  font-size: 22px;
+  font-weight: bold;
+  background: linear-gradient(90deg, #ff4d6d, #6a0dad);
+  background-clip: text;
+  -webkit-background-clip: text;
+  color: transparent;
+}
+
+
+/* Buttons (Playlist + Top Songs) */
+.live-btn {
+  display: inline-block;
+  margin: 8px;
+  padding: 10px 15px;
+  border-radius: 20px;
+  border: none;
+  background: linear-gradient(90deg, #00c6ff, #0072ff);
+  color: white;
+  cursor: pointer;
+  font-weight: bold;
+  transition: 0.3s;
+}
+
+.live-btn:hover {
+  transform: scale(1.05);
+}
+
+/* Content center */
+.live-content {
+  margin-top: 15px;
+}
+/* Group Button */
+.live-group-btn {
+  background: linear-gradient(90deg, #ff4d6d, #6a0dad); /* pink → purple */
+  color: white;
+  padding: 12px;
+  border-radius: 20px;
+  cursor: pointer;
+  font-weight: bold;
+  text-align: center;
+  margin-bottom: 10px;
+}
+
+/* Card */
+.live-card {
+  background: linear-gradient(135deg, #f8e6ff, #ffe6f2);
+  padding: 20px;
+  border-radius: 15px;
+  margin: 15px;
+  text-align: center;
+}
+
+/* Playlist + Top Songs (horizontal) */
+.live-options {
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+  margin-top: 10px;
+}
+
+/* Playlist button */
+.playlist-btn {
+  background: linear-gradient(90deg, #00c6ff, #0072ff);
+  color: white;
+  padding: 10px 15px;
+  border-radius: 20px;
+  border: none;
+  cursor: pointer;
+}
+
+/* Top Songs button */
+.top-btn {
+  background: linear-gradient(90deg, #ffb347, #ff7a18);
+  color: white;
+  padding: 10px 15px;
+  border-radius: 20px;
+  border: none;
+  cursor: pointer;
+}
+
+/* Songs container */
+.song-list {
+  margin-top: 15px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 10px; /* spacing improve */
+}
+
+/* Song buttons */
+.song-btn {
+  background: linear-gradient(90deg, #36d1dc, #5b86e5);
+  color: white;
+  padding: 10px 15px; /* thoda bada */
+  margin: 5px;
+  border-radius: 20px;
+  border: none;
+  cursor: pointer;
+  font-size: 14px;
+  font-weight: bold;
+  transition: 0.3s;
+}
+
+/* Hover effect 🔥 */
+.song-btn:hover {
+  transform: scale(1.08);
+  box-shadow: 0 4px 10px rgba(0,0,0,0.2);
+}
+.video-card {
+  width: 160px;
+  cursor: pointer;
+  text-align: center;
+}
+
+.video-card img {
+  width: 100%;
+  border-radius: 12px;
+  transition: 0.3s;
+}
+
+.video-card:hover img {
+  transform: scale(1.05);
+}
+
+.video-card p {
+  font-size: 14px;
+  margin-top: 5px;
+  font-weight: bold;
+
+  background: linear-gradient(90deg, #ff4d6d, #6a0dad);
+  background-clip: text;
+  -webkit-background-clip: text;
+  color: transparent;
+}
+/* =======================
+   HOME SECTION (NEW)
+======================= */
+
+.home-section {
+  padding: 100px 20px;
+  text-align: center;
+  position: relative;
+}
+
+/* Animated Gradient Title */
+.hero-title {
+  font-size: 36px;
+  margin-bottom: 15px;
+
+  background: linear-gradient(90deg, #ff4d6d, #6a0dad, #00c2ff);
+  background-clip: text;
+  -webkit-background-clip: text;
+  color: transparent;
+
+  animation: fadeIn 1.5s ease;
+}
+
+/* Tagline */
+.tagline {
+  font-size: 18px;
+  margin-bottom: 25px;
+  color: #555;
+}
+
+/* Glass Card */
+.glass-card {
+  background: rgba(255, 255, 255, 0.25);
+  padding: 25px;
+  border-radius: 20px;
+  backdrop-filter: blur(10px);
+  box-shadow: 0 5px 20px rgba(0,0,0,0.1);
+  display: inline-block;
+}
+
+/* Start Button */
+.start-btn {
+  display: inline-block;
+  margin-top: 15px;
+  padding: 10px 20px;
+  border-radius: 25px;
+  background: linear-gradient(90deg, #ff4d6d, #6a0dad);
+  color: white;
+  text-decoration: none;
+  transition: 0.3s;
+}
+
+.start-btn:hover {
+  transform: scale(1.05);
+}
+
+/* Right Arrow ➡ */
+.scroll-arrow {
+  position: absolute;
+  right: 30px;
+  top: 50%;
+  font-size: 30px;
+  animation: bounceRight 1s infinite;
+}
+
+/* Floating Emojis 🎶 */
+.home-section::after {
+  content: "🎤 🎶 💜 ✨";
+  position: absolute;
+  bottom: 10px;
+  left: 10px;
+  font-size: 20px;
+  animation: float 5s infinite;
+}
+
+/* Animations */
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(20px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+@keyframes bounceRight {
+  0%, 100% { transform: translateX(0); }
+  50% { transform: translateX(10px); }
+}
+
+@keyframes float {
+  0% { transform: translateY(0); }
+  50% { transform: translateY(-15px); }
+  100% { transform: translateY(0); }
+}
